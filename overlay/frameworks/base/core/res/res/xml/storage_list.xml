@@ -27,7 +27,7 @@
         android:mtpReserve="100" />
     <!-- external USB drive -->
     <storage
-        android:mountPoint="/mnt/usbdrive"
+        android:mountPoint="/storage/usbdisk0"
         android:storageDescription="@string/storage_usb"
         android:removable="true" />
 </StorageList>
