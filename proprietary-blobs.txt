@@ -87,6 +87,7 @@
 /system/lib/libstagefrighthw.so
 /system/lib/libtf_crypto_sst.so
 /system/lib/libxgold-ril.so
+/system/media/bootanimation.zip
 /system/vendor/firmware/libpn544_fw.so
 /system/vendor/lib/drm/libdrmwvmplugin.so
 /system/vendor/lib/libwvdrm_L1.so
