@@ -87,8 +87,12 @@
 /system/lib/libstagefrighthw.so
 /system/lib/libtf_crypto_sst.so
 /system/lib/libxgold-ril.so
+/system/lib/soundfx/libfmas.so
+/system/media/bootanimation.zip
+/system/vendor/etc/audio_effects.conf
 /system/vendor/firmware/libpn544_fw.so
 /system/vendor/lib/drm/libdrmwvmplugin.so
 /system/vendor/lib/libwvdrm_L1.so
 /system/vendor/lib/libwvm.so
 /system/vendor/lib/libWVStreamControlAPI_L1.so
+/system/vendor/lib/mediadrm/libwvdrmengine.so
